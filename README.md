@@ -1,5 +1,6 @@
 # Ransomware Attack and Protection
 
+### This program was developed, tested and compatible for MacOS only.
 ## Requirements
 
 > 1. Install Python.
